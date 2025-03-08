@@ -1,8 +1,17 @@
-## Agentic AI modular application
+---
+title: LanggraphAgenticAI
+emoji: 🐨
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: 1.42.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+short_description: Refined langgraphAgenticAI
+---
 
-## How added initial files into remote github repo
-git add .
-git commit -m "first commits"
-git branch -M main
-git remote add origin https://github.com/tekkieshaper/agentic-ai-app.git
-git push -u origin main
+### End To End Agentic AI Projects
+
+The project is in development
+
