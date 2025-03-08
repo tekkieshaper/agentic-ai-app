@@ -20,7 +20,7 @@ jobs:
 
       - name: Push to hub
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN3 }}
+          HF_TOKEN3: ${{ secrets.HF_TOKEN3 }}
         run: git push --force https://genaitiwari:$HF_TOKEN3@huggingface.co/spaces/genaitiwari/agenticai main
        
          
